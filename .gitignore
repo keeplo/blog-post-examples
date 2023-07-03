@@ -1,0 +1,27 @@
+.DS_Store
+
+# Created by https://www.toptal.com/developers/gitignore/api/xcode,cocoapods
+# Edit at https://www.toptal.com/developers/gitignore?templates=xcode,cocoapods
+
+### CocoaPods ###
+## CocoaPods GitIgnore Template
+
+# CocoaPods - Only use to conserve bandwidth / Save time on Pushing
+#           - Also handy if you have a large number of dependant pods
+#           - AS PER https://guides.cocoapods.org/using/using-cocoapods.html NEVER IGNORE THE LOCK FILE
+Pods/
+
+### Xcode ###
+## User settings
+xcuserdata/
+
+# Created by https://www.toptal.com/developers/gitignore/api/swiftpackagemanager
+# Edit at https://www.toptal.com/developers/gitignore?templates=swiftpackagemanager
+
+### SwiftPackageManager ###
+Packages
+.build/
+xcuserdata
+DerivedData/
+
+
